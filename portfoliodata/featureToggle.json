@@ -1,0 +1,9 @@
+{
+  "about": true,
+  "biography": true,
+  "career": true,
+  "contact": true,
+  "portfolio": true,
+  "skills": true,
+  "video": true
+}
