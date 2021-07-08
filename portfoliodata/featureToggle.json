@@ -4,6 +4,6 @@
   "career": true,
   "contact": true,
   "portfolio": true,
-  "skills": true,
-  "video": false
+  "video": false,
+  "skills": true
 }
