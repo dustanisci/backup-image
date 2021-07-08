@@ -5,5 +5,5 @@
   "contact": true,
   "portfolio": true,
   "skills": true,
-  "video": true
+  "video": false
 }
