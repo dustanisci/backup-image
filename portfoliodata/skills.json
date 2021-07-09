@@ -8,12 +8,13 @@
       ]
     },
     {
-      "title": "Padrões arquiteturais",
+      "title": "Padrões arquiteturais / projetos",
       "items": [
         "MVC",
         "MVVM",
         "Lazy loading",
-        "Microsserviços"
+        "Microsserviços",
+        "Flux"
       ]
     },
     {
